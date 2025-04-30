@@ -17,8 +17,8 @@ Este é um projeto simples de CRUD (Create, Read, Update, Delete) de usuários u
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/thiagofogaca25/CRUD-PHP.git
+cd CRUD-PHP
 ```
 
 ### 2. Criar o banco de dados MySQL
